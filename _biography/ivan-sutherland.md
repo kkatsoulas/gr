@@ -21,6 +21,6 @@ gallery:
     caption: 'Before (right) and After (left) applying design constraints to a graphic object in Sketchpad.'
 ---
 
-{% include_relative bio-kay.md %}
+{% include_relative bio-sutherland.md %}
 
-{% include slides.html caption="Εικόνες για την βιογραφία του Αλαν Κεη" %}
+{% include slides.html caption="Εικόνες για την βιογραφία του Ivan Sutherland" %}
