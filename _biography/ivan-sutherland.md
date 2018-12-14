@@ -13,7 +13,7 @@ tags:
   - Computer Aided Design (CAD)
   - Virtual Reality
 gallery:
-  - image_url: /images/sutherland_sketchpad_04.png
+  - image_url: /images/sutherland_sketchpad_04.jpg
     caption: 'Ivan Sutherland on MIT Lincoln Labs TX-2 computer'
   - image_url: /images/sutherland_sword-of-damocles_01.jpg
     caption: 'Sutherland The sword of damocles'
