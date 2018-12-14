@@ -2,7 +2,9 @@
 author: kkatsoulas
 title: "Ivan Sutherland"
 image_url: /images/sutherland_sketchpad_02.jpg
-caption: "Ο Ivan Sutherland θεωρείται ο πρωτοπόρος των γραφικών και της εικονικής πραγματικότητας"
+license_url: 'https://dspace.mit.edu'
+license_text: 'Courtesy of MIT Electronic Systems Laboratory'
+caption: 'Ο Ivan Sutherland θεωρείται ο πρωτοπόρος των γραφικών και της εικονικής πραγματικότητας'
 categories:
   - biography
   - definition
