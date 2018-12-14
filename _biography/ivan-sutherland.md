@@ -19,6 +19,8 @@ gallery:
     caption: "Sutherland The sword of damocles"
   - image_url: /images/sutherland_sketchpad_03.jpg
     caption: 'Before (right) and After (left) applying design constraints to a graphic object in Sketchpad.'
+  - image_url: /images/sutherland_sketchpad_01.jpg
+    caption: 'LIGHT PEN. Courtesy of MIT Electronic Systems Laboratory.'
 ---
 
 {% include_relative bio-sutherland.md %}
