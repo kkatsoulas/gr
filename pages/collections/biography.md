@@ -20,8 +20,6 @@ coming soon...
 
 [Bret Victor]
 
-[Ivan Sutherland]
-
 [Bill Buxton]
 
 [Ted Nelson]
