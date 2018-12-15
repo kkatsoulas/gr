@@ -25,6 +25,10 @@ gallery:
     caption: 'Ivan Sutherland demonstrating Sketchpad Before (right) and After (left) applying design constraints to a graphic object in Sketchpad.'
   - image_url: /images/sutherland_sketchpad_01.jpg
     caption: 'LIGHT PEN. Courtesy of MIT Electronic Systems Laboratory.'
+  - image_url: /images/sutherland_sword-of-damocles_02.jpg
+    caption: 'The Head-mounted Display (aka The Sword of Damocles) worn by Donald L. Vickers, one of Ivan E. Sutherland’s Students at The University of Utah.'
+    license_url: 'https://amturing.acm.org/photo/sutherland_3467412.cfm'
+    license_text: 'Photo courtesy of Ivan Sutherland.'
 ---
 
 {% include_relative bio-sutherland.md %}
