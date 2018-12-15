@@ -41,3 +41,11 @@ To 1968 ενώ ήταν καθηγητής στο πανεπιστήμιο τη�
 * National Academy of Sciences member,
 * Kyoto Prize για τα πρωτοποριακά επιτεύγματα στην ανάπτυξη γραφικών ηλεκτρονικών υπολογιστών και διαδραστικών διεπαφών.
 * Computer History Museum Fellow (2005)
+
+
+Ανάμεσα στους φοιτητές του ήταν:
+* Ο Alan Kay, δημιουργός της Smalltalk 
+* Ο Henri Gouraud, ο οποίος δημιούργησε την τεχνική σκίασης Gouraud 
+* Ο Frank Crow, ο οποίος συνέχισε να αναπτύσσει μεθόδους αντι-αναδίπλωσης
+* Ο Jim Clark, ιδρυτής του Silicon Graphics
+* Ο Edwin Catmull, συνιδρυτής της Pixar και τώρα πρόεδρος του Walt Disney και του Pixar Animation Studios.
