@@ -18,7 +18,7 @@ gallery:
   - image_url: /images/sutherland_sketchpad_01.jpg
     caption: 'LIGHT PEN. Originally on page 56 of Phd dissertation.'
     license_url: 'https://commons.wikimedia.org/wiki/Category:Sketchpad#/media/File:SketchpadDissertation-Fig4-1.tif'
-    license_text: 'This figure from Ivan Sutherland's famous Sketchpad dissertation was scanned, with permission from Sutherland, using an original paper copy of the dissertation.'
+    license_text: 'Scanned with permission from Sutherland using an original paper copy of the dissertation.'
 
   - image_url: /images/sutherland_sketchpad_03.jpg
     caption: 'Ivan Sutherland demonstrating Sketchpad Before (right) and After (left) applying design constraints to a graphic object in Sketchpad.'
@@ -26,7 +26,7 @@ gallery:
   - image_url: /images/sutherland_sketchpad_04.jpg
     caption: 'Ivan Sutherland on MIT Lincoln Labs TX-2 computer. Originally on page 11 of Phd dissertation'
     license_url: 'https://commons.wikimedia.org/wiki/File:SketchpadDissertation-Fig1-2.tif'
-    license_text: This figure from Ivan Sutherland's famous Sketchpad dissertation was scanned, with permission from Sutherland, using an original paper copy of the dissertation.'
+    license_text: 'Scanned with permission from Sutherland using an original paper copy of the dissertation.'
     
   - image_url: /images/sutherland_sword-of-damocles_01.jpg
     caption: 'Sutherland The sword of damocles'
