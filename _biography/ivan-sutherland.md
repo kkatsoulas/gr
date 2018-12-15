@@ -17,14 +17,20 @@ tags:
 gallery:
   - image_url: /images/sutherland_sketchpad_01.jpg
     caption: 'LIGHT PEN. Courtesy of MIT Electronic Systems Laboratory.'
+    license_url: 'https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf'
+    license_text: 'Courtesy of MIT Electronic Systems Laboratory. Originally on page 56 of Phd thesis.'
+
   - image_url: /images/sutherland_sketchpad_03.jpg
     caption: 'Ivan Sutherland demonstrating Sketchpad Before (right) and After (left) applying design constraints to a graphic object in Sketchpad.'
+    
   - image_url: /images/sutherland_sketchpad_04.jpg
     caption: 'Ivan Sutherland on MIT Lincoln Labs TX-2 computer'
     license_url: 'https://amturing.acm.org/photo/sutherland_3467412.cfm'
-    license_text: 'Photo courtesy of Ivan Sutherland.'
+    license_text: 'Photo courtesy of Ivan Sutherland. Originally on page 11 of Phd thesis.'
+    
   - image_url: /images/sutherland_sword-of-damocles_01.jpg
     caption: 'Sutherland The sword of damocles'
+    
   - image_url: /images/sutherland_sword-of-damocles_02.jpg
     caption: 'The Head-mounted Display (aka The Sword of Damocles) worn by Donald L. Vickers, one of Ivan E. Sutherland’s Students at The University of Utah.'
     license_url: 'https://amturing.acm.org/photo/sutherland_3467412.cfm'
